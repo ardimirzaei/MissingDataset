@@ -1,4 +1,4 @@
-setwd(choose.dir()) # C:\Users\amir9048\Dropbox (Sydney Uni)\Projects\RSAP Missing Data\Dataset - Missing Data
+setwd(choose.dir()) # RSAP Missing Data\Dataset - Missing Data
 
 source("Functions_Used.R")
 df <- read.table("student-por.csv",sep=";",header=TRUE)
